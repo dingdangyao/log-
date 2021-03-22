@@ -1,0 +1,5 @@
+2021-03-20 22:31:21,678] [demo.py][line:35][DEBUG] debug
+2021-03-20 22:31:21,679] [demo.py][line:36][INFO] info
+2021-03-20 22:31:21,679] [demo.py][line:37][WARNING] 警告
+2021-03-20 22:31:21,680] [demo.py][line:38][ERROR] 报错
+2021-03-20 22:31:21,680] [demo.py][line:39][CRITICAL] 严重
